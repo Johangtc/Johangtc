@@ -1,6 +1,6 @@
 # Hola, soy Johan 👋
 
-Soy estudiante de Ingeniería Industrial en la UAM - Azcapotzalco y estoy en los últimos trimestres de mi carrera. Me especializo en Gestión de Proyectos, Matemáticas Financieras y actualmente estoy enfocado en análisis de datos y optimización de procesos. Mi objetivo profesional es desarrollarme como **Analista de Datos** o **Inteligencia de Negocios**.
+Soy estudiante de Ingeniería Industrial en la UAM - Azcapotzalco y estoy en los últimos trimestres de mi carrera. Me especializo en Gestión de Proyectos, Matemáticas Financieras y actualmente estoy enfocado en análisis de datos y optimización de procesos. Mi objetivo profesional es desarrollarme como **Analista de Datos** o en el área de **Inteligencia de Negocios**.
 
 ### 💼 Proyectos:
 -**Asistente de Desarrollo, Departamento de Sistemas UAM - Azc**
