@@ -11,7 +11,7 @@ Soy estudiante de Ingeniería Industrial en la UAM - Azcapotzalco y estoy en los
 
 ### 🔧 Habilidades Técnicas:
 - **Programación**: Python, TypeScript
-- **Herramientas de Análisis de Datos**: SQL (Postgre), GCP, Análisis en Excel.
+- **Herramientas de Análisis de Datos**: SQL (Postgre), PowerBI, R, Análisis en Excel.
 - **Gestión de Proyectos**: Conocimientos en Administración de Proyectos, Planeación y Ejecución de Proyectos, y Planeación Estratégica.
 
 ### 🌱 En constante aprendizaje:
