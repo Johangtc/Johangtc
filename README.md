@@ -1,26 +1,52 @@
-# Hola, soy Johan 👋
+<h1 align="center">¡Hola! 👋 Soy Johan</h1>
 
-Soy estudiante de Ingeniería Industrial en la UAM - Azcapotzalco y estoy en los últimos trimestres de mi carrera. Me especializo en Gestión de Proyectos, Matemáticas Financieras y actualmente estoy enfocado en análisis de datos y optimización de procesos. Mi objetivo profesional es desarrollarme como **Analista de Datos** o en el área de **Inteligencia de Negocios**.
+<p align="center">
+  🎓 Estudiante de Ingeniería Industrial en la UAM Azcapotzalco <br>
+  📊 Apasionado por el análisis de datos, optimización de procesos e inteligencia de negocios <br>
+  🚀 Mi objetivo es convertirme en **Ingeniero de Datos**
+</p>
 
-### 💼 Proyectos:
--**Asistente de Desarrollo, Departamento de Sistemas UAM - Azc**
-- **Planeación de Desarrollo de Aplicación de Transporte Seguro**: Proyecto universitario para una app tipo Uber, exclusiva para la comunidad UAM-Azcapotzalco, implicando la planeación y ejecución del proyecto.
-- **Optimización del Layout de Planta en Volkswagen Puebla**: Aplicación del método **Systematic Layout Planning (SLP)** para mejorar la distribución de la planta de producción junto con su análisis financiero.
-- **Evaluación de Proyectos de Infraestructura**: Evaluación para la construcción de un aeropuerto de carga en Apan, Hidalgo como parte de la matería de logística.
-- **Actualmente estudiando para desarrollandome como BI Analyst**
+---
 
-### 🔧 Habilidades Técnicas:
-- **Programación**: Python, TypeScript
-- **Herramientas de Análisis de Datos**: SQL (Postgre), PowerBI, R, Análisis en Excel.
-- **Gestión de Proyectos**: Conocimientos en Administración de Proyectos, Planeación y Ejecución de Proyectos, y Planeación Estratégica.
+### 👨‍💻 Sobre mí
 
-### 🌱 En constante aprendizaje:
-Actualmente me encuentro aprendiendo **SQL y PowerBI** y profundizando mis conocimientos en **Análisis de Datos** e **Inteligencia de Negocios**. También estoy explorando el uso de herramientas avanzadas en ciencia de datos y prácticas de optimización de procesos.
+- 📈 Me especializo en estadística y finanzas
+- 🛠 Estoy trabajando en proyectos de análisis de datos y mejora continua
+- 💡 Me interesa aplicar tecnología para resolver problemas reales
+- 🌱 Aprendiendo cada día: analisis de datos, Python, SQL, visualización y Excel
 
-### 📫 Contáctame:
-- **LinkedIn**: www.linkedin.com/in/johan-g-042331226
-- **Correo**: johan030803@gmail.com
+---
 
-¡Gracias por visitar mi perfil! Estoy abierto a colaborar en proyectos!
+### 🧰 Tecnologías y herramientas que uso
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Johangtc&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johangtc&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/johan-g-042331226/)
+- ✉️ johan030803@gmail.com
+
+---
+
+<p align="center">
+  Hecho con ❤️ desde México | Siempre listo para aprender y colaborar
+</p>
 
