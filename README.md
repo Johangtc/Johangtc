@@ -3,7 +3,7 @@
 <p align="center">
   🎓 Estudiante de Ingeniería Industrial en la UAM Azcapotzalco <br>
   📊 Apasionado por el análisis de datos, optimización de procesos e inteligencia de negocios <br>
-  🚀 Mi objetivo es convertirme en **Ingeniero de Datos**
+  🚀 Mi objetivo es convertirme en ***Ingeniero de Datos***
 </p>
 
 ---
@@ -41,12 +41,11 @@
 
 ### 📫 Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/johan-g-042331226/)
 - ✉️ johan030803@gmail.com
 
 ---
 
 <p align="center">
-  Hecho con ❤️ desde México | Siempre listo para aprender y colaborar
+  Siempre listo para aprender y colaborar
 </p>
 
