@@ -1,51 +1,45 @@
-<h1 align="center">¡Hola! 👋 Soy Johan</h1>
+## Hi, I'm **Johan Gutiérrez**
 
-<p align="center">
-  🎓 Estudiante de Ingeniería Industrial en la UAM Azcapotzalco <br>
-  📊 Apasionado por el análisis de datos, optimización de procesos e inteligencia de negocios <br>
-  🚀 Mi objetivo es convertirme en ***Ingeniero de Datos***
-</p>
+**Industrial Engineer — UAM Azcapotzalco**  
+**Computer Science Student (Software Engineering track) — UVEG**
 
----
-
-### 👨‍💻 Sobre mí
-
-- 📈 Me especializo en estadística y finanzas
-- 🛠 Estoy trabajando en proyectos de análisis de datos y mejora continua
-- 💡 Me interesa aplicar tecnología para resolver problemas reales
-- 🌱 Aprendiendo cada día: analisis de datos, Python, SQL, visualización y Excel
+I’m passionate about data analysis, software engineering, and building technological solutions that create real value. I enjoy designing, optimizing, and understanding systems from both technical and operational perspectives.
 
 ---
 
-### 🧰 Tecnologías y herramientas que uso
+## About Me
+- Quality Engineer → aspiring Data Engineer  
+- Linux Debian user  
+- I enjoy turning data into decisions  
+- Interested in automation and low-code/no-code tools  
+- I like integrating engineering, statistics, and technology  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" />
-</p>
+## Technologies & Tools
 
----
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 📈 GitHub Stats
+### Backend Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Johangtc&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johangtc&layout=compact&theme=tokyonight" />
-</p>
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+### Data Analysis & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### 📫 Contacto
+### Automation & Productivity
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Microsoft Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
 
-- ✉️ johan030803@gmail.com
+### IDEs & Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-<p align="center">
-  Siempre listo para aprender y colaborar
-</p>
-
+### Operating Systems
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
