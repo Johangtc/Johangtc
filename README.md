@@ -1,6 +1,6 @@
 ## Hi, I'm **Johan Gutiérrez**
 
-**Industrial Engineer — UAM Azcapotzalco**  
+**Industrial Engineer (Financial track) — UAM Azcapotzalco**  
 **Computer Science Student (Software Engineering track) — UVEG**
 
 I’m passionate about data analysis, software engineering, and building technological solutions that create real value. I enjoy designing, optimizing, and understanding systems from both technical and operational perspectives.
@@ -8,8 +8,8 @@ I’m passionate about data analysis, software engineering, and building technol
 ---
 
 ## About Me
-- Quality Engineer → aspiring Data Engineer  
-- Linux Debian user  
+- Aspiring Data Engineer by hobby
+- Linux Debian user / Winbugs11  
 - I enjoy turning data into decisions  
 - Interested in automation and low-code/no-code tools  
 - I like integrating engineering, statistics, and technology  
