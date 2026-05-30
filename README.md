@@ -1,7 +1,7 @@
 ## Hi, I'm **Johan Gutiérrez**
 
-**Industrial Engineer (Financial track) — UAM Azcapotzalco**  
-**Computer Science Student (Software Engineering track) — UVEG**
+**Industrial Engineer (Financial track)**  
+**Computer Science Student (Software Engineering track)**
 
 I’m passionate about data analysis, software engineering, and building technological solutions that create real value. I enjoy designing, optimizing, and understanding systems from both technical and operational perspectives.
 
